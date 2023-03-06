@@ -8,3 +8,8 @@ Add these NuGet Packages:
 2. Fluent Assertions
 3. Microsoft.Net.Test.Sdk
 
+# Instructions for running
+1. Clone this Repo to a local directory.
+2. Open this SpecFlowCalculator.sln in Visual Studio.
+3. This should build right out-of-the-box after Cloning, after Building you should see this in Visual Studio's Test Explorer. 
+![image](https://user-images.githubusercontent.com/1669072/223166868-81127e13-e199-4e02-a8f7-6e758bf60734.png)
