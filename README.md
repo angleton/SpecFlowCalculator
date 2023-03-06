@@ -8,6 +8,3 @@ Add these NuGet Packages:
 2. Fluent Assertions
 3. Microsoft.Net.Test.Sdk
 
-# Instructions following Class Library Project creation
-1. Create the Features, Hooks, and a Steps folders, and create a LoggedInDiscount.feature file in the Features folder.  Visual Studio 2022 should automatically detect it as a Specflow file for defining the LoggedInDiscount feature. 
-2. 
