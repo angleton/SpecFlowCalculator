@@ -13,3 +13,6 @@ Add these NuGet Packages:
 2. Open this SpecFlowCalculator.sln in Visual Studio.
 3. This should build right out-of-the-box after Cloning, after Building you should see this in Visual Studio's Test Explorer. 
 ![image](https://user-images.githubusercontent.com/1669072/223166868-81127e13-e199-4e02-a8f7-6e758bf60734.png)
+4. Run the "Add two numbers" test, and you should see it pass. 
+![image](https://user-images.githubusercontent.com/1669072/223167629-8f0f9980-242d-4d75-9761-60bfec9eb498.png)
+
